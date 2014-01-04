@@ -1,4 +1,4 @@
-package collections;
+package szgm.collections;
 
 import java.util.Collection;
 
